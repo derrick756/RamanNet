@@ -3,11 +3,11 @@ With the advent of hyperspectral Raman imaging technology, especially the rapid 
 # Installation
 Python 3.6 is recommended.
 
-[python](https://www.python.org/).
+[python](https://www.python.org/)
 
 ## Install tensorflow
 
-[tensorflow](https://www.tensorflow.org/).
+[tensorflow](https://www.tensorflow.org/)
 
 ## Install dependent packages
 **1.Numpy**
@@ -29,7 +29,7 @@ pip install pandas
 # Download the model and run directly
 The spectra database and models exceeded the limit; therefore we have uploaded them on Google drive.
 
-Download at: [Google drive](https://drive.google.com/drive/folders/16bgVecnjALsifiu14kMi9xshx5iXEhnu).
+Download at: [Google drive](https://drive.google.com/drive/folders/16bgVecnjALsifiu14kMi9xshx5iXEhnu)
 
 **1.Generating synthetic training mixture datasets**
 
