@@ -29,7 +29,7 @@ pip install pandas
 # Download the model and run directly
 The spectra database and models exceeded the limit; therefore we have uploaded them on Google drive.
 
-Download at:[Google drive](https://drive.google.com/drive/folders/16bgVecnjALsifiu14kMi9xshx5iXEhnu).
+Download at: [Google drive](https://drive.google.com/drive/folders/16bgVecnjALsifiu14kMi9xshx5iXEhnu).
 
 **1.Generating synthetic training mixture datasets**
 
