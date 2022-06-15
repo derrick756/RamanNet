@@ -43,7 +43,7 @@ Run the files "Regression_Raman_train_binary and Regression_Raman_train_ternary"
 
 Run the file 'Concentration_Raman_test_simulated.py' to predict the concentrations of individual chemicals in the simulated mixtures.
 
-Run the file 'Concentration_Raman_test.py' to predict the concentrations of the pure biochemicals in the liposome mixture.
+Run the file 'Concentration_Raman_test.py' to predict the concentrations of the pure biochemicals in the experimental mixture.
 
 # Contact
 Derrick Boateng: derrick756@mail.ustc.edu.cn
