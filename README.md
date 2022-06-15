@@ -46,3 +46,4 @@ Run the file 'Concentration_Raman_test_simulated.py' to predict the concentratio
 Run the file 'Concentration_Raman_test.py' to predict the concentrations of the pure biochemicals in the liposome mixture.
 
 # Contact
+Derrick Boateng: derrick756@mail.ustc.edu.cn
