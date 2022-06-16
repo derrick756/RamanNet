@@ -42,9 +42,9 @@ Run the files "Regression_Raman_train_binary and Regression_Raman_train_ternary"
 
 **3.Predict spectral mixtures concentrations**
 
-Run the file 'Concentration_Raman_test_simulated.py' to predict the concentrations of individual chemicals in the simulated mixtures. An example of the prediction result using the corresponding spectral dataset has been uploaded to the folder named 'output'.
+Run the file 'Concentration_Raman_test_simulated.py' to predict the concentrations of individual chemicals in the simulated mixtures. 
 
-Run the file 'Concentration_Raman_test.py' to predict the concentrations of the pure biochemicals in the experimental mixture. An example of the prediction result has been uploaded to the folder named 'output'.
+Run the file 'Concentration_Raman_test.py' to predict the concentrations of the pure biochemicals in the experimental mixture. 
 
 # Contact
 Derrick Boateng: derrickboat10@163.com
