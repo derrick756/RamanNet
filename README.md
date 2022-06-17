@@ -1,6 +1,8 @@
 # RamanNet
 With the advent of hyperspectral Raman imaging technology, especially the rapid and high-resolution imaging schemes, datasets with thousands to millions of spectra are now commonplace. Standard preprocessing and regression methods such as least squares approaches are time consuming and require input from highly trained operators. Here we propose a solution to this analytic bottleneck through a convolutional neural network trained fully on synthetic data and then applied to experimental measurements, including cases where complete spectral information is missing (i.e. an underdetermined model). An advantage of the model is that it combines background correction and regression into a single step, and does not require user-selected parameters. We compare our results with traditional least squares methods, including the popular asymmetric least squares (AsLS) approach. Our results demonstrate that the proposed CNN model boasts less sensitivity to parameter selection, and with a rapid processing speed, with performance equal to or better than comparison methods. The performance is validated on synthetic spectral mixtures, as well as experimentally measured single-vesicle liposome data.
 
+![](/Overview_Flowchart.jpg)
+
 # Installation
 Python 3.6 is recommended.
 
